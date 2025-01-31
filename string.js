@@ -30,4 +30,5 @@ url.replace('histesh','tan');
 console.log(url.replace('hitesh','tan'));
 
 console.log(url.includes('tanu'));//checking for values in it that it is present or not
+git commit -m "operation on string"
 
